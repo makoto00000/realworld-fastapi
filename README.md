@@ -15,9 +15,11 @@ For more information on how to this works with other frontends/backends, head ov
 
 # How it works
 
-> Describe the general architecture of your app here
+- [Documents](http://localhost:8000/docs)
+- [Adminer](http://localhost:8080/)
 
 # Getting started
 
-> npm install, npm start, etc.
-
+```shell
+docker compose up -d
+```
